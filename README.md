@@ -91,12 +91,14 @@ cv2.destroyAllWindows()
 
 ### SCREEN SHOTS OF OUTPUT 
 
+![image](https://github.com/user-attachments/assets/6c76291c-c515-430d-aad3-91217ca9fe78)
 
 
 
 
 ### RASPI INTERFACE 
 
+![image](https://github.com/user-attachments/assets/74144cf1-07b9-4ca0-8197-5314a069dac3)
 
 
 
